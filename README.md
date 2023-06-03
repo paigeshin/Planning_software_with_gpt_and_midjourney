@@ -1,0 +1,1 @@
+# Planning_software_with_gpt_and_midjourney
