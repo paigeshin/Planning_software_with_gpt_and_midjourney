@@ -39,6 +39,8 @@ What is their pain point?
 ```bash
 A JOB-TO-BE-DONE is a statement that describes, with precision, what a group of people are trying to achieve or accomplish in a given situation. A job-to-be-done could be a task that people are trying to accomplish, a goal or objective they are trying to achieve, a problem they are trying to resolve, something they are trying to avoid, or anything else they are trying to accomplish.
 
+A job statement is written as [verb] + [object of the verb] + [contextual clarifier] (optionally). For example, pass on life lessons to children, repair a torn rotator cuff and prevent a shooter from entering a school, are all jobs-to-be-done.
+
 Define my target audience's jobs-to-be-done
 ```
 
