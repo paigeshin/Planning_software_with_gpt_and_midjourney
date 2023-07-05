@@ -94,6 +94,32 @@ To win at innovation a company must know what a customer need is, what the custo
 Find my customer's needs
 ```
 
+- GPT - Jobs-to-be-done
+
+```bash
+Define the core functions 
+
+When trying to... 
+```
+
+```bash
+Define the core functions 
+
+In this situation...
+```
+
+```bash
+Define Outcomes
+
+People struggle to...
+```
+
+```bash
+Define Emotional Jobs
+
+And want to feel and be perceived as...
+```
+
 - GPT  - Target Audience
 
 ```bash
@@ -158,4 +184,31 @@ Do you think it makes most sense to put the FAQ that you just generated on the l
 Can you produce a few color schemes that would work well based on the business and the target audience? 
 ```
 
+# Jobs to be done process 
 
+1. Define the market around the "job-to-be-done"
+
+2. Uncover the customer's "needs"
+
+3. Quantify the degree to which each need is over or underserved
+
+4. Discover hidden segments of opportunity
+
+5. Align existing products with market opportunities
+
+6. Conceptualize new products to address unment customer needs
+
+
+### Define the Core Functional JTBD
+
+When trying to... 
+
+In this situation....
+
+### Define Outcomes
+
+People struggle to...
+
+### Define Emotional Jobs
+
+And want to fee and be perceived as....
