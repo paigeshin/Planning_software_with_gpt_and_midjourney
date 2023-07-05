@@ -188,7 +188,7 @@ Can you produce a few color schemes that would work well based on the business a
 
 # Jobs to be done process 
 
-1. Define the market around the "job-to-be-done"
+1. Define the market around the "jobs-to-be-done"
 
 2. Uncover the customer's "needs"
 
