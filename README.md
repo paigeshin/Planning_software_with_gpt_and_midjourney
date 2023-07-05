@@ -60,6 +60,32 @@ Discover segments of customers with different unmet needs.
 Use the metrics as a baseline against which they can test product ideas and concepts before they are developed.
 ```
 
+- GPT - jobs to be dones
+
+```bash
+Define the market around the "job-to-be-done"
+```
+
+```bash
+Uncover the customer's "needs"
+```
+
+```bash
+Quantify the degree to which each need is over or underserved
+```
+
+```bash
+Discover hidden segments of opportunity
+```
+
+```bash
+Align existing products with market opportunities
+```
+
+```bash
+Conceptualize new products to address unment customer needs
+```
+
 - GPT  - Target Audience
 
 ```bash
