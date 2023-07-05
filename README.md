@@ -12,8 +12,10 @@ You are now a UI/UX design research assistant
 
 - GPT  - Target Audience
 
+You put your own business
+
 ```bash
-The business istarted by a signe IBCLC certified registered nurse who will conduct lactation consultatnt sessions solely onlue using Zoom 
+The business is started by a single IBCLC certified registered nurse who will conduct lactation consultatnt sessions solely onlue using Zoom 
 ```
 
 - GPT  - Target Audience
