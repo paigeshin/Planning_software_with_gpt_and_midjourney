@@ -44,6 +44,22 @@ A job statement is written as [verb] + [object of the verb] + [contextual clarif
 Define my target audience's jobs-to-be-done
 ```
 
+- GPT - jobs to be done
+
+```bash
+Quantify which needs are underserved and overserved.
+```
+- GPT - jobs to be done
+
+```bash
+Discover segments of customers with different unmet needs.
+```
+- GPT - jobs to be done
+
+```bash
+Use the metrics as a baseline against which they can test product ideas and concepts before they are developed.
+```
+
 - GPT  - Target Audience
 
 ```bash
