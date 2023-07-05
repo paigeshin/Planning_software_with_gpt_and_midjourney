@@ -86,6 +86,14 @@ Align existing products with market opportunities
 Conceptualize new products to address unment customer needs
 ```
 
+- GPT - Find Needs
+
+```bash
+To win at innovation a company must know what a customer need is, what the customer’s needs are, which are unmet and if segments of customers exist with unique sets of unmet needs. With the target well defined, creating a winning solution becomes far more likely.
+
+Find my customer's needs
+```
+
 - GPT  - Target Audience
 
 ```bash
