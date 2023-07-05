@@ -22,13 +22,31 @@ The business istarted by a signe IBCLC certified registered nurse who will condu
 I need you to help identify the **target audience** for this online lactation consultant business. Your findings should include the target audience demographics
 ```
 
+- GPT - Psychographics
+
+```bash
+Define psychographics of the target personas
+```
+
+- GPT - Pain Points
+
+```bash
+What is their pain point?
+```
+
+- GPT - jobs to be done 
+
+```bash
+A JOB-TO-BE-DONE is a statement that describes, with precision, what a group of people are trying to achieve or accomplish in a given situation. A job-to-be-done could be a task that people are trying to accomplish, a goal or objective they are trying to achieve, a problem they are trying to resolve, something they are trying to avoid, or anything else they are trying to accomplish.
+
+Define my target audience's jobs-to-be-done
+```
+
 - GPT  - Target Audience
 
 ```bash
 Can you create 5 user personas that represent your findings from the previous prompt?
 ```
-
-⇒ You can add pain points 
 
 - Midjourney - Target Audience
 
@@ -87,3 +105,5 @@ Do you think it makes most sense to put the FAQ that you just generated on the l
 ```bash
 Can you produce a few color schemes that would work well based on the business and the target audience? 
 ```
+
+
