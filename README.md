@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=prVP_M0j3uQ
 
+
+
 # Flows
 
 - GPT  - Target Audience
@@ -126,6 +128,19 @@ And want to feel and be perceived as...
 
 ```bash
 Can you create 5 user personas that represent your findings from the previous prompt?
+```
+
+- GPT - Product Objectives 
+
+```bash 
+Based on all the information complete these sentences 
+
+My product is for people who believe ___
+
+I will focus on people who want ____
+
+If my customers use this proudct, it will help them achieve ____
+
 ```
 
 - Midjourney - Target Audience
